@@ -1,4 +1,4 @@
-this us my first repository on github . Today i build a simple portfolio.
+this is my first repository on github . Today i build a simple portfolio.
  
 #technology uses
 
