@@ -17,10 +17,4 @@ Purpose
 
 I created this repository to improve my frontend development skills by building small projects and practicing concepts regularly.
 
-Projects
-
-- Portfolio Website
-- Landing Pages
-- Mini Practice Projects
-
 More projects will be added as I continue learning.
