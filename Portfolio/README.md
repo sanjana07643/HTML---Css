@@ -18,4 +18,4 @@ This is a simple portfolio website created as a practice project to improve my H
 This project is for learning and practicing front-end web development. It is not my final portfolio and will be improved as I continue learning.
 
 ## Author
-Sanjana
+Sanjana Maurya 
