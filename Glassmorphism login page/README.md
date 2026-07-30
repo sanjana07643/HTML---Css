@@ -12,12 +12,12 @@ Features
 
 Current Status
 
-🚧 This project is still under development. The basic structure has been created, and more features such as form validation, animations, responsiveness improvements, and JavaScript functionality will be added in future updates.
+This project is still under development. The basic structure has been created, and more features such as form validation, animations, responsiveness improvements, and JavaScript functionality will be added in future updates.
 
 Technologies Used
 
-- HTML5
-- CSS3
+- HTML 5
+- CSS 3
 
 Purpose
 
