@@ -16,7 +16,6 @@ body{
   gap:20px;
   backdrop-filter: blur(15px);
   -webkit-backdrop-filter:blur(15px);
-  border:5px groove white;
 }
 h1{
   align-content: center;
@@ -31,6 +30,7 @@ input{
 }
 p{
   text-align: center;
+  font-family: Georgia, sans-sarif;
 }
 button{
   height:35px;
