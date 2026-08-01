@@ -10,9 +10,6 @@ Features
 - Login button
 - Clean and minimal UI
 
-Current Status
-
-This project is still under development. The basic structure has been created, and more features such as form validation, animations, responsiveness improvements, and JavaScript functionality will be added in future updates.
 
 Technologies Used
 
